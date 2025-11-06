@@ -4,7 +4,7 @@
 -Model performance was found to correlate directly with size, with larger models achieving better results. 
 -All output bounding boxes displayed the respective confidence scores.
 
-##Object detection
+## Object detection
 
 ```bash
 yolo predict model=yolo11n.pt source=/Users/cheesecake/projai/images imgsz=640 conf=0.25 
@@ -24,7 +24,7 @@ output images:
 
 /Users/cheesecake/projai/runs/detect/predict7-myEgs/eg2.jpg
 
-##Segmentation
+## Segmentation
 
 ```bash
 yolo predict model=yolo11n-seg.pt source=/Users/cheesecake/projai/images imgsz=640 conf=0.25 
