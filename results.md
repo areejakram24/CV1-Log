@@ -24,7 +24,6 @@ output images:
 
 /Users/cheesecake/projai/runs/detect/predict7-myEgs/eg2.jpg
 
-
 ##Segmentation
 
 ```bash
